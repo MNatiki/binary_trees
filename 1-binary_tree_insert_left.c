@@ -2,7 +2,7 @@
 /**
  * binary_tree_insert_left - add left of the parent
  * @parent: parent
- * @value: value 
+ * @value: value
  * Return: NULL or new node
  */
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
